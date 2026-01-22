@@ -59,10 +59,10 @@ o  Clean, scalable project structure <br>
 <h2>📂 Folder Structure </h2> 
 
 client/ <br>
- ├── api/            axios config <br>
- ├── auth/           protected routes <br>
- ├── components/     loaders, snackbar <br>
- ├── pages/          login, dashboard, navbar <br>
+ ├── api/    &nbsp; &nbsp; &nbsp;&nbsp;        axios config <br>
+ ├── auth/   &nbsp; &nbsp; &nbsp;&nbsp;        protected routes <br>
+ ├── components/  &nbsp; &nbsp; &nbsp;&nbsp;    loaders, snackbar <br>
+ ├── pages/        &nbsp; &nbsp; &nbsp;&nbsp;   login, dashboard, navbar <br>
  └── App.jsx<br><br>
 
 server/<br>
