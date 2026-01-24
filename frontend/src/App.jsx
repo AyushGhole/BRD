@@ -47,6 +47,11 @@ const App = () => {
       />
 
       <Routes>
+          <Route path="/" element={ <Login
+              onLoginStart={setLoading}
+              setText={setLoaderText}
+              showSnackbar={showSnackbar}
+            />} />
         <Route
           path="/login"
           element={
