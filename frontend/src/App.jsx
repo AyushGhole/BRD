@@ -31,7 +31,7 @@ const App = () => {
     setTimeout(() => {
       localStorage.clear();
       setLoading(false);
-      window.location.href = "/login";
+      window.location.href = "/";
     }, 1200);
   };
 
